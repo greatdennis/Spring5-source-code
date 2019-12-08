@@ -12,5 +12,4 @@
 
 把 `aspects不编译时使用这个手动编译 `这个包下的的所有目录复制到 `Spring-aspects`build里的main目录中
 
-![1575781882858](img\1575781882858.png)
-
+<img src='http://101.37.77.161:8700/showFile?path=/root/photo/gitee/img/22f936ad8ffa47a1926cfb47f7850675.png'>
